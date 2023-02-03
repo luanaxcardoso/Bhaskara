@@ -1,0 +1,17 @@
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\bin\Debug\net6.0-windows\EQUAÇAO.exe
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\bin\Debug\net6.0-windows\EQUAÇAO.deps.json
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\bin\Debug\net6.0-windows\EQUAÇAO.runtimeconfig.json
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\bin\Debug\net6.0-windows\EQUAÇAO.dll
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\bin\Debug\net6.0-windows\EQUAÇAO.pdb
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\EQUAÇAO.csproj.AssemblyReference.cache
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\EQUAÇAO.Form1.resources
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\EQUAÇAO.csproj.GenerateResource.cache
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\EQUAÇAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\EQUAÇAO.AssemblyInfoInputs.cache
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\EQUAÇAO.AssemblyInfo.cs
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\EQUAÇAO.csproj.CoreCompileInputs.cache
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\EQUAÇAO.dll
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\refint\EQUAÇAO.dll
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\EQUAÇAO.pdb
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\EQUAÇAO.genruntimeconfig.cache
+C:\Users\luana\Desktop\CSHARP\EQUAÇAO\obj\Debug\net6.0-windows\ref\EQUAÇAO.dll
